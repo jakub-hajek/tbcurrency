@@ -1,8 +1,8 @@
 #Java Demo - payment tracker
 
 ##Installation (maven and jdk >= 1.6.x required):
-* a) cd tbcurrency
-* b) mvn clean install
+* a) `cd tbcurrency`
+* b) `mvn clean install`
 
 ##Run:
 * a) `java -jar target/tb-currency-1.0-SNAPSHOT.jar path/to/input/file`
